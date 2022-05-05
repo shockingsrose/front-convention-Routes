@@ -1,0 +1,27 @@
+{
+  "name": "front-convention-routes",
+  "version": "0.0.1",
+  "description": "front convention routes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shockingsrose/front-convention-Routes.git"
+  },
+  "keywords": [
+    "front",
+    "convention",
+    "routes"
+  ],
+  "author": "shockingsrose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shockingsrose/front-convention-Routes/issues"
+  },
+  "homepage": "https://github.com/shockingsrose/front-convention-Routes#readme",
+  "peerDependencies": {
+    "react": ">= 16.6.3"
+  }
+}
